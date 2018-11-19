@@ -5,24 +5,24 @@ Course: Mathematical Foundations of Data Science <br>
 
 ## Main TextBooks:
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
-Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
+Reading: Chapters 1, 2, 3, 5, 6, 7, and 21
 
 ## Slides & Papers:
 Recommended Slides & Papers: 
 1. **Chapter 1 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap1.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap1.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
-2. **Chapter 2 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
- Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap2.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap2.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
-3. **Chapter 3 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
- Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap3.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap3.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
-4. **Chapter 5 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
- Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap5.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap5.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
-5. **Chapter 6 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
- Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap6.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap6.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
-6. **Chapter 7 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
- Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap7.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap7.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
-7. **Chapter 21 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
- Slides (Data Mining and Analysis): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap21.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap21.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+2. **Chapter 2 (Numeric Attributes) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+ Slides (Numeric Attributes): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap2.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap2.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+3. **Chapter 3 (Categorical Attributes) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+ Slides (Categorical Attributes): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap3.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap3.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+4. **Chapter 5 (Kernel Methods) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+ Slides (Kernel Methods): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap5.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap5.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+5. **Chapter 6 (High-dimensional Data) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+ Slides (High-dimensional Data): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap6.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap6.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+6. **Chapter 7 (Dimensionality Reduction) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+ Slides (Dimensionality Reduction): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap7.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap7.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+7. **Chapter 21 (Support Vector Machines) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+ Slides (Support Vector Machines): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap21.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap21.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
  
 ## Class time, Location and Examinations:
 Saturday and Monday 10:00-11:30 AM (Fall 2018), Room 208. 
