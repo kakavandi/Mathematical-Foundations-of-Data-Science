@@ -7,6 +7,9 @@ Course: Mathematical Foundations of Data Science <br>
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 1, 2, 3, 5, 6, 7, and 21
 
+[Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
+Reading: Chapter 23
+
 ## Slides & Papers:
 Recommended Slides & Papers: 
 1. **Chapter 1 (Data Mining and Analysis) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
